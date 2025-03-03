@@ -1,4 +1,5 @@
 # Prerequisites
+.objects
 *.d
 
 # Compiled Object files
@@ -30,3 +31,4 @@
 *.exe
 *.out
 *.app
+*.o
